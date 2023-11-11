@@ -12,10 +12,13 @@ Data Visualization: There is a corse data extraction for images from the PDF fil
 
 #### Features
 
-Downloading academic papers from arXiv.
-Reading and extracting information from PDF files.
-Integrating with OpenAI's API for the embeddings model and LLM.
-Displaying images via matplotlib.
+This notebook includes:
+- Downloading academic papers from arXiv.
+- Reading and extracting information from PDF files.
+- Integrating with OpenAI's API for the embeddings model and LLM.
+- Displaying images via matplotlib.
+- Answering questions based on the PDF
+- Enabling the LLM to calling functions for displaying images and formatting equations
 
 #### Important Note
 
