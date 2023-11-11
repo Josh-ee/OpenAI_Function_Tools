@@ -6,7 +6,8 @@ This notebook expands upon the OpenAI Function calling documentation, focusing o
 
 **Example**
 
-![Screenshot 2023-11-10 at 5 49 16 PM](https://github.com/Josh-ee/OpenAI_Function_Tools/assets/74482044/2065c2d9-e024-4dd1-abf6-5c6012b8f6d4)
+![Screenshot 2023-11-10 at 5 49 16 PM](https://github.com/Josh-ee/OpenAI_Function_Tools/assets/74482044/667ea2ce-ee7f-489a-89db-01be1a827a10)
+
 
 
 
