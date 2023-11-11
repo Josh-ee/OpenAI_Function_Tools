@@ -1,8 +1,14 @@
 ### OpenAI Function Calling PDF Reader
 
-Overview
+**Overview**
 
 This notebook expands upon the OpenAI Function calling documentation, focusing on interacting with PDF files. It provides a practical example of using OpenAI's API to process and analyze PDF documents.
+
+**Example**
+
+![Screenshot 2023-11-10 at 5 49 16 PM](https://github.com/Josh-ee/OpenAI_Function_Tools/assets/74482044/2065c2d9-e024-4dd1-abf6-5c6012b8f6d4)
+
+
 
 #### Usage
 
